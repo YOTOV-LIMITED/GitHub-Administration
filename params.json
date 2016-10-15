@@ -1,0 +1,6 @@
+{
+  "name": "Github-administration",
+  "tagline": "GSA's administration and implementation of github.com/gsa",
+  "body": "\r\n## To Do \r\n* Standards for Private Repos \r\n* Organization Administration \r\n* Team Creation \r\n* Requesting Access\r\n* Team Member Deprovisioning\r\n* GSA Standards \r\n* FAQ \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
